@@ -30,7 +30,6 @@
         flex:1 1 auto;
     }
 }
-
 /*--------Min width:768-----------------*/
 @media screen and (min-device-width:768px) and (max-device-width:1023px){
     .yellow .content{
@@ -43,7 +42,6 @@
         flex-direction:column;
     }
 }
-
 /*--------Min width:320----------------*/
 @media screen and (min-device-width:320px) and (max-device-width:767px){
     .yellow{
